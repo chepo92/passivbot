@@ -1,3 +1,11 @@
+---
+title: Passivbot instances manager
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Passivbot instances manager
 
 * [Getting started](#getting-started)

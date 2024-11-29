@@ -1,3 +1,11 @@
+---
+title: How it works
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # How it works
 
 A python script is given access to user's exchange account and listens to websocket stream of live trades in the selected market, automatically creating and cancelling limit buy and sell orders.

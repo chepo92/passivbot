@@ -1,3 +1,11 @@
+---
+title: Quick Start
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Passivbot Quick Start
 
 Here follows a quick start guide for passivbot installation

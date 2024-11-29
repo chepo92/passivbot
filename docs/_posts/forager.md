@@ -1,3 +1,11 @@
+---
+title: Forager
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Forager
 
 Moves passivbots around to wherever volatility is highest.  

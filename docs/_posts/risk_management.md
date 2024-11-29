@@ -1,3 +1,11 @@
+---
+title: Risk Management
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Risk Management
 
 First priority to trading should be proper risk management.

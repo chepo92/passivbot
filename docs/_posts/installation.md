@@ -1,3 +1,11 @@
+---
+title: Installation
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Installing passivbot
 
 Passivbot can be installed and used either by installing it manually, or by starting it using Docker.

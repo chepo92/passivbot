@@ -1,3 +1,11 @@
+---
+title: Spot trading
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Spot trading
 
 Passivbot works on Binance and Bybit spot markets.

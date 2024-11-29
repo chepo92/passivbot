@@ -1,3 +1,11 @@
+---
+title: Running live
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Running the bot live
 
 Once you've installed and configured the bot as desired, it's time to start your bot in live mode. This page explains

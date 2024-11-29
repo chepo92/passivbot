@@ -1,3 +1,11 @@
+---
+title: Configuration
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Configuration
 
 In order to configure Passivbot, you will need to provide a json file when starting the bot.

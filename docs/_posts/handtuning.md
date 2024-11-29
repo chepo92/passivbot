@@ -1,3 +1,11 @@
+---
+title: Tuning config
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Tuning config by hand
 
 The most advised way to create a profitable and resilient configuration is by using the automated

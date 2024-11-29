@@ -1,3 +1,11 @@
+---
+title: Walkthrough
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Example walkthrough of using the bot
 
 The documentation provides detailed descriptions on each individual functionality the bot provides, like

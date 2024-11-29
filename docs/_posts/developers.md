@@ -1,3 +1,11 @@
+---
+title: Developers guide
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Developers guide
 
 If you're a developer and would like to contribute to Passivbot development, welcome!

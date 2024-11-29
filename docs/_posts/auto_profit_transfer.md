@@ -1,3 +1,12 @@
+---
+title: Automatic Profit Transfer
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
+
 # Automatic Profit Transfer
 
 Only Binance and Bybit USDT futures -> spot transfer supported at this time.  

@@ -1,3 +1,11 @@
+---
+title: Optimize
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Optimize
 
 Configs may be optimized with harmony search or particle swarm optimization algorithms.  

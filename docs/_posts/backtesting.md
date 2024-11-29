@@ -1,3 +1,11 @@
+---
+title: Backtesting
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Backtesting
 
 If you want to see how a configuration will perform, you can run it through a backtest that is provided by Passivbot.

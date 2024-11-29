@@ -1,3 +1,11 @@
+---
+title: Auto Unstuck
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Auto Unstuck
 
 Passivbot may be configured to realize losses. Applies to recursive and neat grid modes.

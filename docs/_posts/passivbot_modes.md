@@ -1,3 +1,11 @@
+---
+title: Passivbot Modes
+author: passivbot
+date: 2024-10-30
+category: Jekyll
+layout: post
+---
+
 # Passivbot Modes
 
 Passivbot has three different ways of calculating entries:  
