@@ -1,3 +1,11 @@
+---
+title: FAQ
+author: passivbot
+date: 2024-18-29
+category: Jekyll
+layout: post
+---
+
 # Frequently asked questions
 
 **Q: Do I have to know how to code to use this?**  
